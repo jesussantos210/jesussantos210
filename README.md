@@ -1,4 +1,4 @@
-## Hi, I´m Jesús Alb Santos 👋
+## Hi, I´m Jesús Alb. Santos 👋
 
 <!--
 **jesussantos210/jesussantos210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
